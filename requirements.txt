@@ -1,5 +1,4 @@
-# Streamlit Scho# Streamlit School Management System - Compatible Versions
-streamlit==1.29.0  # Compatible with Rich 14.x
+streamlit==1.29.0
 pandas==2.2.2
 plotly==5.18.0
 sqlalchemy==2.0.23
@@ -7,43 +6,14 @@ streamlit-option-menu==0.3.6
 python-dotenv==1.0.0
 openpyxl==3.1.2
 greenlet==3.0.5
-
-# These versions work together
 numpy==1.26.4
 matplotlib==3.8.4
 Pillow==10.3.0
-rich==14.2.0  # Now compatible with Streamlit 1.29.0
-
-# Other dependencies
+rich==14.2.0
 altair==5.2.0
 blinker==1.7.0
 click==8.1.7
 GitPython==3.1.41
-Jinja2==3.1.3
-MarkupSafe==2.1.5
-protobuf==4.25.3
-python-dateutil==2.8.2
-requests==2.31.0
-urllib3==2.1.0ol Management System - Streamlit Cloud Optimized
-streamlit==1.32.0
-pandas==2.2.2  # Changed from 2.2.0 - has pre-built wheels
-plotly==5.18.0
-sqlalchemy==2.0.25  # Minor update
-streamlit-option-menu==0.3.6
-python-dotenv==1.0.0
-openpyxl==3.1.5  # Updated
-greenlet==3.0.5
-
-# Use these versions for faster installation
-numpy==1.26.4  # Has pre-built wheels
-matplotlib==3.8.4  # Has pre-built wheels
-Pillow==10.3.0
-rich==14.2.0
-
-# Keep these light
-altair==5.2.0
-blinker==1.7.0
-click==8.1.7
 Jinja2==3.1.3
 MarkupSafe==2.1.5
 protobuf==4.25.3
